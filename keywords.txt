@@ -1,12 +1,12 @@
 #######################################
-# Syntax Coloring Map Servo
+# Syntax Coloring Map SilServo
 #######################################
 
 #######################################
 # Datatypes (KEYWORD1)
 #######################################
 
-Servo	KEYWORD1	Servo
+SilServo	KEYWORD1	SilServo
 
 #######################################
 # Methods and Functions (KEYWORD2)

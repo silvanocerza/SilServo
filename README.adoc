@@ -1,9 +1,9 @@
-= Servo Library for Arduino =
+= SilServo Library for Arduino =
 
-This library allows an Arduino board to control RC (hobby) servo motors.
+This library allows an Arduino board to control RC (hobby) Silservo motors.
 
 For more information about this library please visit us at
-https://www.arduino.cc/reference/en/libraries/servo/
+https://www.arduino.cc/reference/en/libraries/silservo/
 
 == License ==
 
